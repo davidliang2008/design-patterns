@@ -1,2 +1,2 @@
 # Design Patterns
-Notes on design patterns with C# examples
+Notes taken from the book "Gang of Four" on design patterns, with C# examples added.
